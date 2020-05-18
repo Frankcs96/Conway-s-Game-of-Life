@@ -5,5 +5,4 @@ The Game of Life (an example of a cellular automaton) is played on an infinite t
 * If the cell is alive, then it stays alive if it has either 2 or 3 live neighbors
 * If the cell is dead, then it springs to life only in the case that it has 3 live neighbors
 
-
-![]https://media.giphy.com/media/JssffxVeXH27Dt57lf/giphy.gif)
+![](https://media.giphy.com/media/JssffxVeXH27Dt57lf/giphy.gif)
