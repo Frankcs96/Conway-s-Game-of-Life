@@ -1,0 +1,12 @@
+#container {
+  color:green;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Fira Code";
+}
+
+
+input[type=checkbox] {
+ width: 20px;
+  height: 20px;
+}
