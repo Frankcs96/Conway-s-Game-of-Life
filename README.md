@@ -6,4 +6,4 @@ The Game of Life (an example of a cellular automaton) is played on an infinite t
 * If the cell is dead, then it springs to life only in the case that it has 3 live neighbors
 
 
-![](https://gyazo.com/5e29fd343e2f972556b39ca7c319c8c8)
+![]https://media.giphy.com/media/JssffxVeXH27Dt57lf/giphy.gif)
